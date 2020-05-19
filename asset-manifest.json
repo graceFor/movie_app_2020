@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/movie_app_2020/static/css/main.6b5207ed.chunk.css",
-    "main.js": "/github.io/movie_app_2020/static/js/main.1b54652e.chunk.js",
-    "main.js.map": "/github.io/movie_app_2020/static/js/main.1b54652e.chunk.js.map",
-    "runtime-main.js": "/github.io/movie_app_2020/static/js/runtime-main.d2b91d3f.js",
-    "runtime-main.js.map": "/github.io/movie_app_2020/static/js/runtime-main.d2b91d3f.js.map",
-    "static/js/2.769f61a3.chunk.js": "/github.io/movie_app_2020/static/js/2.769f61a3.chunk.js",
-    "static/js/2.769f61a3.chunk.js.map": "/github.io/movie_app_2020/static/js/2.769f61a3.chunk.js.map",
-    "index.html": "/github.io/movie_app_2020/index.html",
-    "precache-manifest.92ee72041835295e1d2c09c4fe275281.js": "/github.io/movie_app_2020/precache-manifest.92ee72041835295e1d2c09c4fe275281.js",
-    "service-worker.js": "/github.io/movie_app_2020/service-worker.js",
-    "static/css/main.6b5207ed.chunk.css.map": "/github.io/movie_app_2020/static/css/main.6b5207ed.chunk.css.map",
-    "static/js/2.769f61a3.chunk.js.LICENSE.txt": "/github.io/movie_app_2020/static/js/2.769f61a3.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_2020/static/css/main.6b5207ed.chunk.css",
+    "main.js": "/movie_app_2020/static/js/main.1b54652e.chunk.js",
+    "main.js.map": "/movie_app_2020/static/js/main.1b54652e.chunk.js.map",
+    "runtime-main.js": "/movie_app_2020/static/js/runtime-main.72517e8e.js",
+    "runtime-main.js.map": "/movie_app_2020/static/js/runtime-main.72517e8e.js.map",
+    "static/js/2.769f61a3.chunk.js": "/movie_app_2020/static/js/2.769f61a3.chunk.js",
+    "static/js/2.769f61a3.chunk.js.map": "/movie_app_2020/static/js/2.769f61a3.chunk.js.map",
+    "index.html": "/movie_app_2020/index.html",
+    "precache-manifest.d901e6230e14ea733a719a7da5f677a1.js": "/movie_app_2020/precache-manifest.d901e6230e14ea733a719a7da5f677a1.js",
+    "service-worker.js": "/movie_app_2020/service-worker.js",
+    "static/css/main.6b5207ed.chunk.css.map": "/movie_app_2020/static/css/main.6b5207ed.chunk.css.map",
+    "static/js/2.769f61a3.chunk.js.LICENSE.txt": "/movie_app_2020/static/js/2.769f61a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2b91d3f.js",
+    "static/js/runtime-main.72517e8e.js",
     "static/js/2.769f61a3.chunk.js",
     "static/css/main.6b5207ed.chunk.css",
     "static/js/main.1b54652e.chunk.js"
